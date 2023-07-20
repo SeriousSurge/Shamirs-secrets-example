@@ -7,7 +7,7 @@ Shamir's Secret Sharing is a cryptographic algorithm that allows a secret to be 
 - Generation of shares for a secret using Shamir's Secret Sharing algorithm
 - Distribution of shares among multiple nodes using Flask API
 - Reconstruction of the secret using Lagrange interpolation
-- Support for different secret sizes (up to 256)
+- Support for different secret sizes (up to 16 characters (128 bits))
 - Simple and extensible implementation
 
 ## Getting Started
